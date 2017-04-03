@@ -65,7 +65,7 @@ vendor/lib/libaudiodevarb.so
 # Bluetooth
 bin/btnvtool
 bin/dun-server
-bin/hci_qcomm_init
+#bin/hci_qcomm_init
 bin/wcnss_filter
 vendor/lib64/libbtnv.so
 vendor/lib64/libCommandSvc.so
@@ -647,7 +647,7 @@ vendor/firmware/libpn548ad_fw.so
 # Perf
 bin/energy-awareness
 bin/iop
-bin/msm_irqbalance
+#bin/msm_irqbalance
 lib64/libqti-iop.so
 vendor/bin/perfd
 vendor/lib64/libqc-opt.so
@@ -787,7 +787,7 @@ vendor/lib/libTimeService.so
 
 # WiFi
 bin/cnss-daemon
-bin/cnss_diag
+#bin/cnss_diag
 
 vendor/lib/libactuator_ad5816g.so
 vendor/lib/libactuator_ad5823.so
